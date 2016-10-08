@@ -1,0 +1,10 @@
+c:\users\cursoadmin\documents\visual studio 2012\EjemploMVC\Pokedex\Application\bin\Debug\Application.exe.config
+c:\users\cursoadmin\documents\visual studio 2012\EjemploMVC\Pokedex\Application\bin\Debug\Application.exe
+c:\users\cursoadmin\documents\visual studio 2012\EjemploMVC\Pokedex\Application\bin\Debug\Application.pdb
+c:\users\cursoadmin\documents\visual studio 2012\EjemploMVC\Pokedex\Application\bin\Debug\Bussiness.dll
+c:\users\cursoadmin\documents\visual studio 2012\EjemploMVC\Pokedex\Application\bin\Debug\Data.dll
+c:\users\cursoadmin\documents\visual studio 2012\EjemploMVC\Pokedex\Application\bin\Debug\Bussiness.pdb
+c:\users\cursoadmin\documents\visual studio 2012\EjemploMVC\Pokedex\Application\bin\Debug\Data.pdb
+c:\users\cursoadmin\documents\visual studio 2012\EjemploMVC\Pokedex\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+c:\users\cursoadmin\documents\visual studio 2012\EjemploMVC\Pokedex\Application\obj\Debug\Application.exe
+c:\users\cursoadmin\documents\visual studio 2012\EjemploMVC\Pokedex\Application\obj\Debug\Application.pdb
