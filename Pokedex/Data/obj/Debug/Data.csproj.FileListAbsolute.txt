@@ -1,4 +1,0 @@
-c:\users\cursoadmin\documents\visual studio 2012\EjemploMVC\Pokedex\Data\bin\Debug\Data.dll
-c:\users\cursoadmin\documents\visual studio 2012\EjemploMVC\Pokedex\Data\bin\Debug\Data.pdb
-c:\users\cursoadmin\documents\visual studio 2012\EjemploMVC\Pokedex\Data\obj\Debug\Data.dll
-c:\users\cursoadmin\documents\visual studio 2012\EjemploMVC\Pokedex\Data\obj\Debug\Data.pdb

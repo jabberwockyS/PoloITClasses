@@ -1,7 +1,0 @@
-c:\users\cursoadmin\documents\visual studio 2012\EjemploMVC\Pokedex\Bussiness\obj\Debug\Bussiness.csprojResolveAssemblyReference.cache
-c:\users\cursoadmin\documents\visual studio 2012\EjemploMVC\Pokedex\Bussiness\bin\Debug\Bussiness.dll
-c:\users\cursoadmin\documents\visual studio 2012\EjemploMVC\Pokedex\Bussiness\bin\Debug\Bussiness.pdb
-c:\users\cursoadmin\documents\visual studio 2012\EjemploMVC\Pokedex\Bussiness\bin\Debug\Data.dll
-c:\users\cursoadmin\documents\visual studio 2012\EjemploMVC\Pokedex\Bussiness\bin\Debug\Data.pdb
-c:\users\cursoadmin\documents\visual studio 2012\EjemploMVC\Pokedex\Bussiness\obj\Debug\Bussiness.dll
-c:\users\cursoadmin\documents\visual studio 2012\EjemploMVC\Pokedex\Bussiness\obj\Debug\Bussiness.pdb
